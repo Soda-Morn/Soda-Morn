@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=714B67&center=true&vCenter=true&random=false&width=650&height=60&lines=🏢+Backend+Developer+at+AXIV+IT;🐍+Python+%2B+Odoo+18+%2B+PostgreSQL;💰+Building+Cambodia+Payroll+Systems;📦+52%2B+Custom+Odoo+Modules;🚀+Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=714B67&center=true&vCenter=true&random=false&width=650&height=60&lines=🏢+Backend+Developer+at+sourceamax asia co.,ltd;🐍+Python+%2B+Odoo+18+%2B+PostgreSQL;💰+Building+Cambodia+Payroll+Systems;📦+52%2B+Custom+Odoo+Modules;🚀+Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 <br/>
 
